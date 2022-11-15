@@ -1,5 +1,5 @@
 import { WebDriver, By, until, WebElement, Builder, Capabilities } from "selenium-webdriver";
-import { Driver } from "selenium-webdriver/chrome";
+
 const chromedriver = require("chromedriver");
 
 
